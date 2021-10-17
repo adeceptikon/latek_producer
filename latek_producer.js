@@ -42,8 +42,8 @@ function generate(){
              + "}\\ \\ = \\ "
              + (j%2 ? '' : '}' )
              +doll
-             + (k+1)                            
 	    + tab5
+             + (k+1)                            
              + ".$\\displaystyle \\frac{" 
              + r[4] 
              + "}{" 
